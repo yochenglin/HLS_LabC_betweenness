@@ -2,8 +2,8 @@ betweenness
 betweenness/*
 *.csv
 hls/*
-top.cpp
-top.hpp
+# top.cpp
+# top.hpp
 kernel/test.cpp
 *.py
 *.txt
